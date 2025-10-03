@@ -185,6 +185,7 @@ body{
 }
 
 footer{
+    border: 2px solid #1f2937;
     background-color: #1f2937;
     color: #E5E7EB;
     text-align: center;
